@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e3172ae-4b1a-4ce8-ba6d-1b22d801b683" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1asfSXWoWaYImGKeXI53MmnX7vs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/good_search_resposne" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AudioAnalysis">
+    <configuration name="AudioAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Musitron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AudioAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Musitron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spotify_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Musitron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spotify_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AudioAnalysis" />
+        <item itemvalue="Python.spotify_client" />
+        <item itemvalue="Python.csv_parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e3172ae-4b1a-4ce8-ba6d-1b22d801b683" name="Default Changelist" comment="" />
+      <created>1587529222001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587529222001</updated>
+      <workItem from="1587529226710" duration="2799000" />
+      <workItem from="1587537032999" duration="7811000" />
+      <workItem from="1588026987017" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587529699781">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="345" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587529699781" />
+    <state width="1708" height="486" key="GridCell.Tab.0.bottom" timestamp="1587546342103">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1708" height="486" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587546342103" />
+    <state width="1708" height="486" key="GridCell.Tab.0.center" timestamp="1587546342102">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1708" height="486" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587546342102" />
+    <state width="1708" height="486" key="GridCell.Tab.0.left" timestamp="1587546342102">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1708" height="486" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587546342102" />
+    <state width="1708" height="486" key="GridCell.Tab.0.right" timestamp="1587546342102">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1708" height="486" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587546342102" />
+    <state x="241" y="211" key="SettingsEditor" timestamp="1587544057111">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="241" y="211" key="SettingsEditor/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587544057111" />
+    <state x="904" y="529" key="com.intellij.ide.util.TipDialog" timestamp="1588027003670">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="904" y="514" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-1920.240.1920.1200@0.0.2560.1440" timestamp="1587529227632" />
+    <state x="904" y="529" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587537037431" />
+    <state x="904" y="529" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/2560.369.1920.1177@0.23.2560.1417" timestamp="1588027003670" />
+    <state x="462" y="341" width="838" height="1032" key="search.everywhere.popup" timestamp="1587530152512">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="462" y="341" width="838" height="1032" key="search.everywhere.popup/0.23.2560.1417/-1920.263.1920.1177@0.23.2560.1417" timestamp="1587530152512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Musitron$spotify_client.coverage" NAME="spotify_client Coverage Results" MODIFIED="1587543345609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Musitron$csv_parser.coverage" NAME="csv_parser Coverage Results" MODIFIED="1587529733661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Musitron$AudioAnalysis.coverage" NAME="AudioAnalysis Coverage Results" MODIFIED="1587544805498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
